@@ -34,7 +34,7 @@ Este projeto foi criado como parte dos meus **estudos em desenvolvimento web**, 
 ```
 dev-sorteio
 │
-├── sorteio.html
+├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
